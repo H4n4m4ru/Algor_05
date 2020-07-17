@@ -1,0 +1,21 @@
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\bin\Debug\Algor_05.exe.config
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\bin\Debug\Algor_05.exe
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\bin\Debug\Algor_05.pdb
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.csprojResolveAssemblyReference.cache
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.Form1.resources
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.Properties.Resources.resources
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.csproj.GenerateResource.Cache
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.exe
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_05\obj\Debug\Algor_05.pdb
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05\obj\Debug\Algor_05.Form2.resources
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\bin\Debug\Algor_05.exe.config
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.exe
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.pdb
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\bin\Debug\Algor_05.exe
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\bin\Debug\Algor_05.pdb
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.csprojResolveAssemblyReference.cache
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.Form1.resources
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.Properties.Resources.resources
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.csproj.GenerateResource.Cache
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.Form3.resources
+C:\Users\花丸\Documents\Visual Studio 2013\Projects\Algor_05 - Ver2.0\obj\Debug\Algor_05.Help.resources
